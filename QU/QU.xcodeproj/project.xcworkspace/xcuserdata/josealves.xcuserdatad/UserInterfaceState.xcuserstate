@@ -1414,7 +1414,7 @@
 		<string>PrimaryDocumentVisibleCharacterRange</string>
 		<string>HideAllIssues</string>
 		<string>PrimaryDocumentSelectedCharacterRange</string>
-		<real>352130644.21834701</real>
+		<real>352130649.38034099</real>
 		<string>{464, 1833}</string>
 		<string>{736, 0}</string>
 		<string>MainStoryboard.storyboard (English)</string>
@@ -2119,7 +2119,7 @@
 		</dict>
 		<string>{0, 0}</string>
 		<string>{27072, 630}</string>
-		<real>352130644.21751302</real>
+		<real>352130644.29794401</real>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -2615,7 +2615,7 @@
 				</dict>
 			</array>
 		</dict>
-		<real>352130644.21733499</real>
+		<real>352130649.37841702</real>
 		<string>{464, 1833}</string>
 		<string>{736, 0}</string>
 		<dict>
