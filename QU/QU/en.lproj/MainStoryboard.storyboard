@@ -21,7 +21,7 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" text="julia" lineBreakMode="tailTruncation" minimumFontSize="10" id="KID-Si-nAT">
-                                <rect key="frame" x="99" y="176" width="42" height="21"/>
+                                <rect key="frame" x="170" y="257" width="42" height="21"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
